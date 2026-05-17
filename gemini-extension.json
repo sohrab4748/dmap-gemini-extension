@@ -1,11 +1,11 @@
 {
   "name": "dmap-ai",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Access DMAP AI for advanced drought metrics, global wavelet analysis, and periodicity parsing.",
   "mcpServers": {
     "dmap-backend": {
       "type": "streamable-http",
-      "url": "https://droughtanalysis.com/mcp"
+      "httpUrl": "https://droughtanalysis.com/mcp"
     }
   }
 }
